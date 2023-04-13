@@ -1,0 +1,106 @@
+
+.bg-customDark{
+    background-color: #000000;
+}
+
+.main-color{
+    background-color: #262525;
+}
+
+.header-color{
+    background-color: #D03D12FF;
+}
+
+/* Default header size */
+.header-size{
+    height: 13vh;
+}
+
+.h-mrg-left{
+    margin-left: 5%;
+}
+
+@media screen and (max-width: 1200px) {
+    .header-size{
+        height: 10vh;
+    }
+
+    .h-mrg-left{
+        margin-left: 3%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header-size{
+        height: 8vh;
+    }
+
+    .h-mrg-left{
+        margin-left: 1%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
