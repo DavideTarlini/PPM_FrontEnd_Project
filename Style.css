@@ -40,10 +40,36 @@
     }
 }
 
+@media screen and (min-width: 650px) {
+    .large-hide{
+        visibility: hidden;
+        clear: both;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 28%;
+        display: none;
+    }
+}
 
+@media screen and (max-width: 650px) {
+    .medium-hide{
+        visibility: hidden;
+        clear: both;
+        display: none;
+    }
+}
 
+@media screen and (max-width: 992px) {
+    .column-hide{
+        visibility: hidden;
+        clear: both;
+        display: none;
+    }
+}
 
-
+.sticky-offset {
+    top: 200px;
+}
 
 
 
