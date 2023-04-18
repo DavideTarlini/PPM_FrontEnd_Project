@@ -45,8 +45,6 @@
         visibility: hidden;
         clear: both;
         float: left;
-        margin: 10px auto 5px 20px;
-        width: 28%;
         display: none;
     }
 }
@@ -65,10 +63,6 @@
         clear: both;
         display: none;
     }
-}
-
-.sticky-offset {
-    top: 200px;
 }
 
 
