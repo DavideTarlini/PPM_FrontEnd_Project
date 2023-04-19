@@ -11,9 +11,12 @@
     background-color: #D03D12FF;
 }
 
-/* Default header size */
 .header-size{
     height: 13vh;
+}
+
+.custom-offset{
+    top: 13vh;
 }
 
 .h-mrg-left{
@@ -23,6 +26,10 @@
 @media screen and (max-width: 1200px) {
     .header-size{
         height: 10vh;
+    }
+
+    .custom-offset{
+        top: 10vh;
     }
 
     .h-mrg-left{
@@ -63,19 +70,13 @@
         clear: both;
         display: none;
     }
+
+    .large-hide_2{
+        visibility: hidden;
+        clear: both;
+        display: none;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
